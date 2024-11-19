@@ -24,7 +24,7 @@ I'm currently a university student studying Computer Engineering at RMUTL. I am 
 - I dont have yet.(ผมยังไม่มี)
 
 🌱 **Hobbies (กิจกรรมยามว่าง)**  
-In my free time, I enjoy gaming, exploring news technology.(เวลาว่างผมเล่นเกม และค้นหาข่าวสารเกี่ยวกับเทคโนโลยี)
+- In my free time, I enjoy gaming, exploring news technology.(เวลาว่างผมเล่นเกม และค้นหาข่าวสารเกี่ยวกับเทคโนโลยี)
 
 📫 **Connect with Me**  
 - Email: [cluboniertheone@gmail.com] , [toto22767@gmail.com]
