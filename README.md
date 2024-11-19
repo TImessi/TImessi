@@ -29,7 +29,7 @@ In my free time, I enjoy gaming, exploring news technology.(เวลาว่�
 - Email: [cluboniertheone@gmail.com] , [toto22767@gmail.com]
 <div id="badges">
   <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
-</div> : [CLUBONIER](https://youtube.com/@clubonier)
+</div>[CLUBONIER](https://youtube.com/@clubonier)
 
 Thank you for visiting my profile!
 ขอบคุณครับ!
