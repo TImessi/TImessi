@@ -10,7 +10,7 @@ I'm currently a university student studying Computer Engineering at RMUTL. I am 
 - My personal development goal building a portfolio, improving coding skills, and become a millionaire.
 
 🔭 **Projects**  
-- I dont have yet
+- I dont have yet.
 
 🌱 **Hobbies**  
 In my free time, I enjoy gaming, exploring news technology.
