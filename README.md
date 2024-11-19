@@ -1,16 +1,21 @@
-# Hello, everyone. Here my bio
+# 👋 Hello, everyone.I'm TImessi!  
 
-- My name is **Tanakit** and my surname is **Intajak**.
-- I'm Thai 21 years old boy.
+🎓 **About Me**
+My name is **Tanakit** and surname is **Intajak**.I'm 21 years old boy.
+I'm currently a university student studying Computer Engineering at RMUTL. I am passionate about web programming, software programming,and  game development.  
 
----
+💡 **What I'm Learning**  
+- C,C++,Python, etc.
+- My personal development goal building a portfolio, improving coding skills, and become a millionaire.
 
-- I'm now studying at RMUTL.
-- I'm now studying Computer Engineering at the bachelor's level.
+🔭 **Projects**  
+- I dont have yet
 
----
-## This github is for testing and learning some computer code projects.
+🌱 **Hobbies**  
+In my free time, I enjoy gaming, exploring news technology.
 
-***You can subscribe me here!***
-- Youtube channel: [clubonier](https://youtube.com/@clubonier?si=IVYGVuVGXaT7VNeE)
-- Facebook: [here](https://www.facebook.com/share/15RZgnxEki/)
+📫 **Connect with Me**  
+- Email: [cluboniertheone@gmail.com] , [toto22767@gmail.com]
+- Youtube: [CLUBONIER]()
+
+Thank you for visiting my profile!
