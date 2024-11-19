@@ -30,9 +30,9 @@ In my free time, I enjoy gaming, exploring news technology.(เวลาว่�
 <div id="badges">
   <a href="https://youtube.com/@clubonier">
   <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
+  </a>
 </div>
 
-- [CLUBONIER](https://youtube.com/@clubonier)
 
 Thank you for visiting my profile!
 ขอบคุณครับ!
