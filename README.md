@@ -8,7 +8,7 @@ I'm currently a university student studying Computer Engineering at RMUTL. I am 
 
 💡 **What I'm Learning**  
 - C,C++,Python, etc.
-- My personal development goal building a portfolio, improving coding skills, and become a millionaire.
+- My personal development goal building a portfolio, improving coding skills.
 
 ---
 # สวัสดีครับ, ผมTImessi
