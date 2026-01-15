@@ -1,7 +1,7 @@
 # 👋 Hello, everyone.I'm TImessi!  
 
 🎓 **About Me**
-![me](tty.svg){ width=160 }
+<img src="./assets/tty.svg" style="width:160px; height:auto;" />
 
 - My name is **Tanakit** and surname is **Intajak**.I'm 21 years old boy.
 I'm currently a university student studying Computer Engineering at RMUTL. I am passionate about web programming, software programming,and  game development.  
